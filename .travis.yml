@@ -10,8 +10,8 @@ script:
 # sudo ./build.sh ArchLinuxARM-rpi-3-latest
 deploy:
   provider: releases
-  user: "jeffh0821@gmail.com"
-  password: "Jef1!Hor"
+  api_key:
+    secure: WlPXlpI6eKztk+tZR5BLqUTy9qcD7KpfFDyIxyApiwiDpoB77SOj062a3Ov2QQcamcFDcgwoLUhNf+mUhIdKpmrg5vzEu1H0elOEHLr/4FZrE+zrtxaWDbNqYElIZg8iOjBY3aSrOfGuJqmD+KtAAu/1gO7gFazA/OW5zXQbpxilmkM2QHm00si/zp/tG8mX/obBFBlS5nYCmvtCnvl8hyz/TQGynFW1f6bJuLwGwysxNqPMtaW9zHzqC1Zr8VWDEJvLrca8Y1kVDoa7MJjC509/aUYDfhY4ChNuShsZEJVt3XrLMp4lQyMkppyAAhAoR7e+bilMMQLPQWLNLPp+n5SaJhbOnFzI/lnHfp0kGlOw1ZuCpf2zcB5OxawPU9ec1I6CHqPwzk/t6eYaHP97sUWiJrD/Hc5M3ruVSqkRVvLuDNXPCVJMUqaOLWMZF4nnSP/7MMhQ+iothJbEszslA97iPF3lHRdpKNihg3t6WmXp2p/Tt/FIF+xMGHZ82cngaM3g8XZ+643D578DMcF0b51ueGTImW9xsjqnEQVD/BkAvzazN/B9emgVPu8CZxd3zrRr0h6AIFlfJ3B3vlC9Adgo+UyTg+5HM8odhnuIUV7fEGv48iDRq1EN4B/K/S2cOmsYePJ+JMi493V1tEHEaNRTpeWXv/spfpBO3YcgikQ=
   file:
   - ArchLinuxARM-rpi-latest.img.gz
   # ArchLinuxARM-rpi-2-latest.img.gz
