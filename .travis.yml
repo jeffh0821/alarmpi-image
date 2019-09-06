@@ -10,8 +10,8 @@ script:
 # sudo ./build.sh ArchLinuxARM-rpi-3-latest
 deploy:
   provider: releases
-  user: jeffh0821@gmail.com
-  password: Jef1!Hor
+  user: "jeffh0821@gmail.com"
+  password: "Jef1!Hor"
   file:
   - ArchLinuxARM-rpi-latest.img.gz
   # ArchLinuxARM-rpi-2-latest.img.gz
