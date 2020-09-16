@@ -5,11 +5,11 @@ AlarmPi-Image
 
 Build ArchLinuxARM Image for RaspberryPi
 
-Image                                 | Info
-------------------------------------- | -------------------
-[ArchLinuxARM-rpi-latest.img.gz][1]   | [raspberry-pi][4]
-[ArchLinuxARM-rpi-2-latest.img.gz][2] | [raspberry-pi-2][5]
-[ArchLinuxARM-rpi-3-latest.img.gz][3] | [raspberry-pi-3][6]
+Image                                 | Info                | Arch
+------------------------------------- | ------------------- | ------
+[ArchLinuxARM-rpi-latest.img.gz][1]   | [raspberry-pi][4]   | ARMv6
+[ArchLinuxARM-rpi-2-latest.img.gz][2] | [raspberry-pi-2][5] | ARMv7
+[ArchLinuxARM-rpi-3-latest.img.gz][3] | [raspberry-pi-3][6] | ARMv8
 
 ## How It Works
 
