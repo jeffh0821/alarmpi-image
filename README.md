@@ -59,5 +59,5 @@ resize2fs /dev/mmcblk0p2
 [3]: https://github.com/jeffh0821/alarmpi-image/releases/download/2017.10.01/ArchLinuxARM-rpi-4-latest.img.gz
 [4]: https://archlinuxarm.org/platforms/armv6/raspberry-pi
 [5]: https://archlinuxarm.org/platforms/armv7/broadcom/raspberry-pi-2
-[6]: https://archlinuxarm.org/platforms/armv7/broadcom/raspberry-pi-3
+[6]: https://archlinuxarm.org/platforms/armv8/broadcom/raspberry-pi-3
 [7]: https://archlinuxarm.org/platforms/armv8/broadcom/raspberry-pi-4
